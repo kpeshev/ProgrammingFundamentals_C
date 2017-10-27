@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{390F43CB-B363-4843-9AB9-6540EABFB7EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1_DebitCardNumber_/Program.cs">
+    <Files>
+      <File FileName="2_RectangleArea/Program.cs" Line="18" Column="1" />
+      <File FileName="3_MileToKm/Program.cs" Line="16" Column="1" />
+      <File FileName="4_BeverageLabels/Program.cs" Line="14" Column="44" />
+      <File FileName="5_CharacterStat/Program.cs" Line="22" Column="1" />
+      <File FileName="1_DebitCardNumber_/Program.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4__BeverageLabels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2__RectangleArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.1__DebitCardNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.3__MileToKm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.5__CharacterStat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
